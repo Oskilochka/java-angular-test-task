@@ -7,6 +7,8 @@
 ### Task 1
 *Angular web project connecting to and using this public REST-api*
 
+Check it via link ---->    https://github.com/Oskilochka/blog-app
+
 ### Task 2
 
 *Write a method sumOfDigits(integer) that returns the sum of the digits of a given integer*
