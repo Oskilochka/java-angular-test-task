@@ -1,4 +1,4 @@
-# Systaro test task
+# Full Stack ( Java, Angular ) test task
 
 *Made by Julia Oskilko*
 
